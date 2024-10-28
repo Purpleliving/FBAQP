@@ -14,4 +14,4 @@ git clone https://github.com/Purpleliving/FBAQP.git
 cd FBAQP
 
 # Make the main script executable
-chmod +x quote.sh
+chmod +x FBQP.sh
