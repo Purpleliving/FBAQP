@@ -35,3 +35,10 @@ if echo "$QUOTE_DATA" | jq .content > /dev/null 2>&1; then
 else
     echo "Failed to retrieve quote. Response: $QUOTE_DATA"
 fi
+
+echo "Thank you for using my tool"
+
+
+
+
+
