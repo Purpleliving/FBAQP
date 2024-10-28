@@ -1,7 +1,7 @@
 USAGE
 Run the script with:
 
-./quote.sh
+./FBQP.sh
 
 The script will:
 Fetch a random quote from Quotable API.
