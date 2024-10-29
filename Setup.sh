@@ -10,7 +10,7 @@ pkg install jq -y
 pkg install git -y
 
 # Clone your repository (replace 'yourusername' and 'yourrepository' with actual names)
-git clone https://github.com/Purpleliving/FBAQP.git
+git clone https://github.com/TheeUnbothered/FBAQP.git
 cd FBAQP
 
 # Make the main script executable
